@@ -2,7 +2,7 @@
 
 # OG Username Generator
 
-Its a python script that allows for users to look for avaliable usernames on the Mojan.
+Its a python script that allows for users to look for avaliable usernames on the Mojan Platform.
 
 
 ## Features
